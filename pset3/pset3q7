@@ -1,0 +1,19 @@
+num='51'
+num=int(num)
+if num > 0:
+	if num <50:
+		if num%2==0:
+			print('The number is a positive even number less than 50.')
+		else:	
+			print('The number is a positve odd number less than 50.')		
+	elif num > 50:
+		if num%3==0:
+			print('The number is larger than 50 and divisible by 3.')
+	elif num==50:
+		print('The number is 50.')
+elif num < 0:
+	print('The number is negative.')
+elif num==0:
+	print('The number is 0.')
+else:
+	print('something is wrong!')

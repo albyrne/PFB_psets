@@ -1,0 +1,5 @@
+school='University of California, Santa Cruz'
+if 'California' in school:
+	print('California in school.')
+else:
+	print('No, California not in school.')

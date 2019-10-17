@@ -1,0 +1,12 @@
+seq='GTACCTTGATTTCGTATTCTGAGAGGCTGCTGCTTAGCGGTAGCCCCTTGGTTTCCGTGGCAACGGAAAA'
+if 'GAT' in seq and 'TTT' in seq:
+	print('GAT in seq and TTT in seq.')
+elif 'GAT' in seq and 'TTT' not in seq:	
+	print('GAT in seq but TTT not in seq.')
+elif 'TTT' in seq and 'GAT' not in seq:
+	print('TTT in seq but GAT not in seq.')
+elif 'TTT' not in seq and 'GAT' not in seq:
+	print('GAT not in seq and TTT not in seq.')
+else:	
+	print('Something is wrong!')
+	
