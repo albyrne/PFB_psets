@@ -1,0 +1,23 @@
+1	Nobody by Shel Silverstein
+2	
+3	Nobody loves me,
+4	Nobody cares,
+5	Nobody picks me peaches and pears.
+6	Nobody offers me candy and Cokes,
+7	Nobody listens and laughs at me jokes.
+8	Nobody helps when I get in a fight,
+9	Nobody does all my homework at night.
+10	Nobody misses me,
+11	Nobody cries,
+12	Nobody thinks I'm a wonderful guy.
+13	So if you ask me who's my best friend, in a whiz,
+14	I'll stand up and tell you that Nobody is.
+15	But yesterday night I got quite a scare,
+16	I woke up and Nobody just wasn't there.
+17	I called out and reached out for Nobody's hand,
+18	In the darkness where Nobody usually stands.
+19	Then I poked through the house, in each cranny and nook,
+20	But I found somebody each place that I looked.
+21	I searched till I'm tired, and now with the dawn,
+22	There's no doubt about it-
+23	Nobody's gone!
