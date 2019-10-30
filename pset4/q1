@@ -1,0 +1,20 @@
+taxa='sapiens,erectus,neanderthalensis'
+#print(taxa[1])
+#printing taxa[1] returns 'a'
+
+#The below returns "class 'str'"
+#print(type(taxa))
+
+species=taxa.split(',')
+#print(species)
+
+#print(species[1])
+#The above prints erectus
+
+#print (type(species))
+#the above prints class 'list'
+
+#print(sorted(species))
+#will sort alphabetically
+
+print(sorted(species,key=len))

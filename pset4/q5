@@ -1,0 +1,9 @@
+count=4
+while count>0:
+	newCount=count-1	
+	count*=newCount
+	count-=1
+	print(count)
+#	break	
+
+	
