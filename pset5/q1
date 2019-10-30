@@ -1,0 +1,7 @@
+import sys
+favorites={'organism':'bird','person':'brendan','tree':'pine','animal':'chloe','movie':'contact'}
+new=sys.argv[1]
+print(favorites)
+favorites['movie']=new
+print(favorites)
+
