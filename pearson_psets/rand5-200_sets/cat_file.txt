@@ -1,0 +1,108 @@
+# ssearch36 -q -S -s BL50 -m 8C rand5.fa q
+# SSEARCH 36.3.8f May, 2017
+# Query: random_5 consisting of 200 residues. - 200 aa
+# Database: QFO_uniprot/ref
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+random_5	tr|E3L245|E3L245_PUCGT	34.02	121	64	24	10	109	152	269	1.2	37.1
+random_5	tr|F6ZFM9|F6ZFM9_CIOIN	24.03	174	117	20	37	193	83	253	4.1	33.9
+random_5	tr|D6WF18|D6WF18_TRICA	31.17	90	53	13	79	165	823	902	4.1	36.4
+random_5	tr|E3KNK6|E3KNK6_PUCGT	30.48	126	73	21	25	135	112	231	4.8	33.6
+random_5	sp|Q84RQ9|ARI12_ARATH	32.04	129	70	26	27	138	151	270	8.4	33.4
+# SSEARCH processed 1 queries
+# ssearch36 -q -S -s BP62 -m 8C rand5.fa q
+# SSEARCH 36.3.8f May, 2017
+# Query: random_5 consisting of 200 residues. - 200 aa
+# Database: QFO_uniprot/ref
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+random_5	tr|D6WF18|D6WF18_TRICA	31.17	90	53	13	79	165	823	902	0.37	39.9
+random_5	sp|Q8GTS0|IP5P4_ARATH	50.00	38	16	6	11	48	3	34	1.8	35.7
+random_5	tr|D6WLD8|D6WLD8_TRICA	33.90	70	39	11	20	89	361	419	4.5	34.9
+random_5	tr|A7S0F9|A7S0F9_NEMVE	36.67	30	19	0	109	138	182	211	6.2	32.8
+random_5	sp|P38631|FKS1_YEAST	33.33	75	40	15	19	83	429	498	8.4	35.3
+random_5	tr|G3MXD6|G3MXD6_BOVIN	26.79	56	41	0	88	143	155	210	8.6	32.8
+random_5	tr|A7SX75|A7SX75_NEMVE	32.43	37	25	0	104	140	57	93	9	31.1
+# SSEARCH processed 1 queries
+# ssearch36 -q -S -s VT10 -m 8C rand5.fa q
+# SSEARCH 36.3.8f May, 2017
+# Query: random_5 consisting of 200 residues. - 200 aa
+# Database: QFO_uniprot/ref
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+random_5	tr|A2EVY0|A2EVY0_TRIVA	100.00	9	0	0	150	158	227	235	0.21	38.3
+random_5	tr|A9RV71|A9RV71_PHYPA	100.00	7	0	0	142	148	39	45	1.8	35.4
+random_5	sp|P93836|HPPD_ARATH	100.00	7	0	0	142	148	47	53	1.8	35.4
+random_5	sp|Q4WH96|MED14_ASPFU	100.00	8	0	0	125	132	750	757	3.2	35.9
+random_5	tr|F7G8M4|F7G8M4_MONDO	100.00	8	0	0	23	30	153	160	3.5	33.5
+random_5	tr|U3JA62|U3JA62_DANRE	100.00	8	0	0	60	67	1270	1277	4.3	36.4
+random_5	tr|F1QSZ7|F1QSZ7_DANRE	87.50	8	1	0	1	8	191	198	8.9	32.5
+random_5	tr|A2FFU6|A2FFU6_TRIVA	100.00	7	0	0	155	161	133	139	10	32.0
+# SSEARCH processed 1 queries
+# ssearch36 -q -S -s VT160 -m 8C rand5.fa q
+# SSEARCH 36.3.8f May, 2017
+# Query: random_5 consisting of 200 residues. - 200 aa
+# Database: QFO_uniprot/ref
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+random_5	tr|D6WF18|D6WF18_TRICA	29.69	67	45	3	102	165	836	902	2.1	37.4
+random_5	tr|G3MXD6|G3MXD6_BOVIN	24.19	146	94	22	34	162	84	224	2.9	34.4
+random_5	tr|Q7Q4K2|Q7Q4K2_ANOGA	23.58	146	94	23	16	148	474	609	6.3	35.1
+random_5	sp|Q9P0G3|KLK14_HUMAN	28.57	128	80	16	38	156	72	192	6.5	32.9
+random_5	tr|G3QG86|G3QG86_GORGO	27.68	128	81	16	38	156	72	192	6.5	32.9
+random_5	tr|A7S0F9|A7S0F9_NEMVE	36.67	30	19	0	109	138	182	211	10	32.1
+# SSEARCH processed 1 queries
+# ssearch36 -q -S -s VT20 -m 8C rand5.fa q
+# SSEARCH 36.3.8f May, 2017
+# Query: random_5 consisting of 200 residues. - 200 aa
+# Database: QFO_uniprot/ref
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+random_5	tr|A2EVY0|A2EVY0_TRIVA	100.00	9	0	0	150	158	227	235	1.1	35.8
+random_5	tr|A9RV71|A9RV71_PHYPA	88.89	9	1	0	142	150	39	47	2.6	34.8
+random_5	sp|P93836|HPPD_ARATH	88.89	9	1	0	142	150	47	55	2.7	34.8
+random_5	tr|A8B6V2|A8B6V2_GIAIC	72.73	11	3	0	133	143	83	93	3.3	33.4
+random_5	tr|F7G8M4|F7G8M4_MONDO	100.00	8	0	0	23	30	153	160	3.7	33.4
+random_5	tr|A7EP96|A7EP96_SCLS1	87.50	8	1	0	18	25	7	14	4.2	31.9
+random_5	tr|Q5KIC0|Q5KIC0_CRYNJ	80.00	10	2	0	184	193	358	367	4.2	35.9
+random_5	sp|Q4WH96|MED14_ASPFU	100.00	8	0	0	125	132	750	757	4.6	35.4
+random_5	sp|Q6TGZ5|HPPD_DANRE	77.78	9	2	0	142	150	19	27	4.7	33.9
+random_5	tr|B7QF75|B7QF75_IXOSC	72.73	11	3	0	78	88	377	387	7.9	33.4
+# SSEARCH processed 1 queries
+# ssearch36 -q -S -s VT40 -m 8C rand5.fa q
+# SSEARCH 36.3.8f May, 2017
+# Query: random_5 consisting of 200 residues. - 200 aa
+# Database: QFO_uniprot/ref
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 11 hits found
+random_5	tr|A8B6V2|A8B6V2_GIAIC	72.73	11	3	0	133	143	83	93	1.3	34.7
+random_5	tr|A8WGZ9|A8WGZ9_XENTR	68.75	24	5	8	129	144	144	167	1.5	35.2
+random_5	tr|I3IT60|I3IT60_DANRE	66.67	50	10	20	95	139	35	69	2	33.7
+random_5	tr|B7PZV5|B7PZV5_IXOSC	76.47	25	4	8	78	98	80	100	3.2	32.8
+random_5	tr|A9RV71|A9RV71_PHYPA	88.89	9	1	0	142	150	39	47	4	34.3
+random_5	sp|P93836|HPPD_ARATH	88.89	9	1	0	142	150	47	55	4.1	34.3
+random_5	tr|A2EVY0|A2EVY0_TRIVA	100.00	9	0	0	150	158	227	235	4.6	33.8
+random_5	sp|Q6TGZ5|HPPD_DANRE	77.78	9	2	0	142	150	19	27	5	33.8
+random_5	tr|Q8THL6|Q8THL6_METAC	70.00	28	6	8	75	100	155	176	6.2	32.8
+random_5	tr|Q5KDD1|Q5KDD1_CRYNJ	68.42	21	6	2	144	164	2401	2419	8	35.7
+random_5	tr|Q5KIC0|Q5KIC0_CRYNJ	80.00	10	2	0	184	193	358	367	9	34.8
+# SSEARCH processed 1 queries
+# ssearch36 -q -S -s VT80 -m 8C rand5.fa q
+# SSEARCH 36.3.8f May, 2017
+# Query: random_5 consisting of 200 residues. - 200 aa
+# Database: QFO_uniprot/ref
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+random_5	tr|I3IT60|I3IT60_DANRE	66.67	50	10	20	95	139	35	69	1.8	33.9
+random_5	sp|Q6PFM0|JMJD6_DANRE	45.95	40	20	3	89	125	291	330	1.9	35.2
+random_5	tr|Q7US62|Q7US62_RHOBA	43.75	36	18	4	50	81	80	115	2.8	33.0
+random_5	sp|Q8GTS0|IP5P4_ARATH	50.00	38	16	6	11	48	3	34	4.7	34.4
+random_5	tr|B7PZV5|B7PZV5_IXOSC	60.00	22	8	2	78	98	80	100	5.2	32.1
+random_5	tr|H2LGH4|H2LGH4_ORYLA	61.90	26	8	5	116	139	132	154	6.1	32.6
+random_5	tr|H2MW94|H2MW94_ORYLA	43.24	40	21	3	89	125	291	330	6.4	33.5
+random_5	tr|W5MZN7|W5MZN7_LEPOC	51.85	30	13	3	89	115	291	320	6.4	33.5
+random_5	tr|A8WGZ9|A8WGZ9_XENTR	68.75	24	5	8	129	144	144	167	6.8	33.0
+random_5	tr|F4K529|F4K529_ARATH	61.90	30	8	9	19	39	493	522	6.9	34.8
+random_5	tr|A0A0P0WH76|A0A0P0WH76_ORYSJ	44.00	25	14	0	8	32	10	34	9.3	32.6
+random_5	tr|Q9SSP7|Q9SSP7_ARATH	57.14	23	9	2	19	39	496	518	9.4	34.4
+# SSEARCH processed 1 queries
